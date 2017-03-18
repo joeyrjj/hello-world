@@ -1,5 +1,7 @@
 # hello-world
-Around 19:30, 18 March 2017, @Guangzhou, China
+18 March 2017, Saturday, @Guangzhou, China
+
+(Drafting started at about 11:30. Then meal, nap and hanging out. Restarted after dinner and finished right before 20:00.)
 
 This is "Hello, world!" from JR.
 
